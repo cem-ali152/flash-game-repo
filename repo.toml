@@ -1,0 +1,43 @@
+name="cemo flash repo"
+identifier="https://github.com/cem-ali152"
+repo_version="0.1"
+
+[[app]]
+url="https://github.com/cem-ali152/flash-game-repo/raw/refs/heads/main/game/cactus-mccoy.zip"
+name="cactus mccoy 1"
+version="1"
+[[app]]
+url="https://github.com/cem-ali152/flash-game-repo/raw/refs/heads/main/game/cactus-mccoy-2.zip"
+name="cactus mccoy 2"
+version="1"
+[[app]]
+url="https://github.com/cem-ali152/flash-game-repo/raw/refs/heads/main/game/jacksmith.zip"
+name="jacksmith"
+version="1"
+[[app]]
+url="https://github.com/cem-ali152/flash-game-repo/raw/refs/heads/main/game/ageofwar.zip"
+name="age of war"
+version="1"
+[[app]]
+url="https://github.com/cem-ali152/flash-game-repo/raw/refs/heads/main/game/dad-n-me.zip"
+name="dad'n me"
+version="1"
+[[app]]
+url="https://github.com/cem-ali152/flash-game-repo/raw/refs/heads/main/game/electric-man-2.zip"
+name="electric man 2"
+version="1"
+
+[[app]]
+url="https:\\test.zip"
+name="https://github.com/cem-ali152/flash-game-repo/raw/refs/heads/main/game/fancy-pants-adventure-1.zip"
+version="1"
+
+[[app]]
+url="https://github.com/cem-ali152/flash-game-repo/raw/refs/heads/main/game/fancy-pants-adventure-2.zip"
+name="fancy pants-adventur 2"
+version="1"
+
+[[app]]
+url="https://github.com/cem-ali152/flash-game-repo/raw/refs/heads/main/game/Haunt-the-House.zip"
+name="Haunt the House"
+version="1"
